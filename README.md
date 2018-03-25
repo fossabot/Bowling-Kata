@@ -47,6 +47,7 @@ Developed By
 <a href="https://es.linkedin.com/in/pedrovgs">
   <img alt="Add me to Linkedin" src="https://image.freepik.com/iconos-gratis/boton-del-logotipo-linkedin_318-84979.png" height="60" width="60"/>
 </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fjdanekrh%2FBowling-Kata?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdanekrh%2FBowling-Kata.svg?type=shield"/></a>
 
 
 
@@ -66,3 +67,6 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdanekrh%2FBowling-Kata.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdanekrh%2FBowling-Kata?ref=badge_large)
